@@ -1,0 +1,7 @@
+
+.DS_Store
+*.ini
+static/search/css/.DS_Store
+static/search/fonts/.DS_Store
+static/search/js/.DS_Store
+static/search/fonts/codropsicons/.DS_Store
